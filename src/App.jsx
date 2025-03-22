@@ -9,8 +9,8 @@ function App() {
       {/* Uncomment one of the examples below to test */}
       {/* <UseCallbackExample /> */}
       {/* <UseRefExample /> */}
-      {/* <FetchExample /> */}
-      <UseMemoExample num={10} />
+      <FetchExample />
+      {/* <UseMemoExample num={10} /> */}
     </>
   );
 }
